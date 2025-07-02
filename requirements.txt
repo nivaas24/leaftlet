@@ -1,0 +1,7 @@
+PyPDF2
+pdfplumber
+reportlab
+Pillow
+pymupdf
+python-docx
+openpyxl

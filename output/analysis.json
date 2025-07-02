@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "untitled",
+    "author": "anonymous",
+    "subject": "unspecified",
+    "creator": "ReportLab PDF Library - www.reportlab.com",
+    "producer": "ReportLab PDF Library - www.reportlab.com",
+    "creation_date": "D:20250702020033+05'00'",
+    "modification_date": "D:20250702020033+05'00'"
+  },
+  "pages": [
+    {
+      "page_number": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text_elements": [
+        {
+          "text": "Sample PDF Document",
+          "x0": 100.0,
+          "y0": 18.599998474121094,
+          "x1": 320.0400085449219,
+          "y1": 46.13999938964844,
+          "fontname": "Helvetica-Bold",
+          "fontsize": 20.0,
+          "page_number": 0
+        },
+        {
+          "text": "Column 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "x0": 50.0,
+          "y0": 87.0999984741211,
+          "x1": 400.1239318847656,
+          "y1": 103.58799743652344,
+          "fontname": "Helvetica",
+          "fontsize": 12.0,
+          "page_number": 0
+        },
+        {
+          "text": "Column 1: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "x0": 50.0,
+          "y0": 107.0999984741211,
+          "x1": 468.19989013671875,
+          "y1": 123.58799743652344,
+          "fontname": "Helvetica",
+          "fontsize": 12.0,
+          "page_number": 0
+        },
+        {
+          "text": "Column 2: Ut enim ad minim veniam, quis nostrud exercitat",
+          "x0": 300.0,
+          "y0": 87.0999984741211,
+          "x1": 614.0999145507812,
+          "y1": 103.58799743652344,
+          "fontname": "Helvetica",
+          "fontsize": 12.0,
+          "page_number": 0
+        },
+        {
+          "text": "Column 2: Laboris nisi ut aliquip ex ea commodo consequa",
+          "x0": 300.0,
+          "y0": 107.0999984741211,
+          "x1": 614.1358642578125,
+          "y1": 123.58799743652344,
+          "fontname": "Helvetica",
+          "fontsize": 12.0,
+          "page_number": 0
+        },
+        {
+          "text": "Image: (Placeholder for image content)",
+          "x0": 50.0,
+          "y0": 167.10000610351562,
+          "x1": 257.4199523925781,
+          "y1": 183.58799743652344,
+          "fontname": "Helvetica",
+          "fontsize": 12.0,
+          "page_number": 0
+        }
+      ],
+      "images": [],
+      "columns": [
+        {
+          "x_start": 50.0,
+          "x_end": 674.7840000000002,
+          "column_index": 0
+        }
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "name": "Helvetica",
+      "type": "F1"
+    },
+    {
+      "name": "Helvetica-Bold",
+      "type": "F2"
+    }
+  ],
+  "total_pages": 1
+}
